@@ -31,6 +31,7 @@ header .container .title h1{
 }
 header #topbar nav{
     display: none;
+    max-width: 900px;
 }
 #real_topbar{
     height: 98px;
